@@ -2,9 +2,9 @@
     "name": "brackets-image-size-update",
     "title": "ImageSizeUpdete",
     "description": "Add Image Dimension to IMG Tag",
-    "homepage": "",
+    "homepage": "https://github.com/goming/brackets-image-size-update/",
     "version": "1.0.0",
-    "author": "Shingo Izumi<izmsng@gmail.com>",
+    "author": "Shingo Izumi<siniz@generalasahi.co.jp>",
     "license": "MIT",
     "categories": "editing",
     "engines": {"brackets": ">=1.7.0"}
