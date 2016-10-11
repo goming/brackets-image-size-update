@@ -1,0 +1,11 @@
+{
+    "name": "brackets-image-size-update",
+    "title": "ImageSizeUpdete",
+    "description": "Add Image Dimension to IMG Tag",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Shingo Izumi<izmsng@gmail.com>",
+    "license": "MIT",
+    "categories": "editing",
+    "engines": {"brackets": ">=1.7.0"}
+}
