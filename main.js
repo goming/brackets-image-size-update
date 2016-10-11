@@ -75,7 +75,7 @@ define(function (require, exports, module) {
             var img = new Image();
             img.src = imgPath;
             img.onload = function () {
-                var imgSize = ["\""+this.width+"px\"", "\""+this.height+"px\""];
+                var imgSize = ["\""+this.width+"\"", "\""+this.height+"\""];
                 _process.replaceImageSize(imgSize, imgArr);
             };
         },
