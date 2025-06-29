@@ -1,0 +1,26 @@
+{
+  "name": "image-size-update",
+  "displayName": "Image Size Update",
+  "description": "Add image width and height to IMG tags",
+  "version": "0.0.1",
+  "publisher": "sample",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": [
+    "onCommand:extension.updateImageSize"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.updateImageSize",
+        "title": "Update ImageSize"
+      }
+    ]
+  },
+  "dependencies": {
+    "image-size": "^1.0.0"
+  }
+}
